@@ -188,7 +188,7 @@ This project provided practical experience with:
 
 ## Author
 
-Yana Gupta
+Aarush Pathak
 
-B.S. Computer Engineering, Machine Learning & Data Science
+B.S. Computer Science & Data Science
 University of Wisconsin–Madison
